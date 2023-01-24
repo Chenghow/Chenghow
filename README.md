@@ -6,4 +6,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 23 January 2023 - To: 24 January 2023
+
+Total Time: 1 hr 36 mins
+
+Other    1 hr 35 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.14 %
+```
+
 <!--END_SECTION:waka-->
