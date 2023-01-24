@@ -4,3 +4,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/chenghow/count.svg">
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
