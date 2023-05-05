@@ -8,11 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 03 May 2023
+From: 23 January 2023 - To: 04 May 2023
 
 Total Time: 2 hrs 20 mins
 
 Other        2 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.77 %
+Python       0 secs          -------------------------   00.59 %
+HTML         0 secs          -------------------------   00.38 %
+JavaScript   0 secs          -------------------------   00.18 %
+JSON         0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
