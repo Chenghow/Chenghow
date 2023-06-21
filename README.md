@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2023 - To: 19 June 2023
+From: 23 January 2023 - To: 20 June 2023
 
-Total Time: 4 hrs 14 mins
+Total Time: 4 hrs 17 mins
 
-Other        4 hrs 13 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.32 %
-Python       0 secs          -------------------------   00.33 %
-HTML         0 secs          -------------------------   00.21 %
+Other        4 hrs 13 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.34 %
+HTML         3 mins          -------------------------   01.19 %
+Python       0 secs          -------------------------   00.32 %
 JavaScript   0 secs          -------------------------   00.10 %
 JSON         0 secs          -------------------------   00.04 %
 ```
