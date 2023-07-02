@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2023 - To: 30 June 2023
+From: 23 January 2023 - To: 01 July 2023
 
-Total Time: 4 hrs 17 mins
+Total Time: 4 hrs 18 mins
 
-Other        4 hrs 13 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.34 %
+Other        4 hrs 13 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.94 %
 HTML         3 mins          -------------------------   01.19 %
+XML          1 min           -------------------------   00.41 %
 Python       0 secs          -------------------------   00.32 %
 JavaScript   0 secs          -------------------------   00.10 %
-JSON         0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
