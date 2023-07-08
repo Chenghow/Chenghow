@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2023 - To: 06 July 2023
+From: 23 January 2023 - To: 07 July 2023
 
-Total Time: 10 hrs 39 mins
+Total Time: 12 hrs 9 mins
 
-Other        7 hrs 38 mins   >>>>>>>>>>>>>>>>>>-------   71.71 %
-YAML         1 hr 28 mins    >>>----------------------   13.88 %
-Markdown     1 hr 22 mins    >>>----------------------   12.96 %
-HTML         3 mins          -------------------------   00.50 %
-SSH Key      1 min           -------------------------   00.22 %
+Other        8 hrs 58 mins   >>>>>>>>>>>>>>>>>>-------   73.80 %
+Markdown     1 hr 32 mins    >>>----------------------   12.75 %
+YAML         1 hr 28 mins    >>>----------------------   12.18 %
+HTML         3 mins          -------------------------   00.44 %
+SSH Key      1 min           -------------------------   00.19 %
 ```
 
 <!--END_SECTION:waka-->
