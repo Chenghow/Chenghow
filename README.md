@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2023 - To: 09 December 2023
+From: 23 January 2023 - To: 10 December 2023
 
-Total Time: 92 hrs 12 mins
+Total Time: 92 hrs 41 mins
 
-Other          65 hrs 59 mins  >>>>>>>>>>>>>>>>>>-------   71.56 %
-Python         10 hrs 11 mins  >>>----------------------   11.06 %
-Text           6 hrs 51 mins   >>-----------------------   07.44 %
-Markdown       2 hrs 53 mins   >------------------------   03.14 %
-C              2 hrs 47 mins   >------------------------   03.03 %
+Other          65 hrs 59 mins  >>>>>>>>>>>>>>>>>>-------   71.19 %
+Python         10 hrs 11 mins  >>>----------------------   11.00 %
+Text           7 hrs 20 mins   >>-----------------------   07.91 %
+Markdown       2 hrs 53 mins   >------------------------   03.12 %
+C              2 hrs 47 mins   >------------------------   03.01 %
 ```
 
 <!--END_SECTION:waka-->
